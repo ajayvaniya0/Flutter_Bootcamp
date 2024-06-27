@@ -9,9 +9,9 @@ This repository documents my journey learning Dart and Flutter through a structu
 - Practice fundamental Dart concepts.
 
 ### Progress:
-- [ ] Variables DataTypes Operators.
-- [ ] collection : List, Map , Set.
-- [ ] Completed Dart syntax exercises.
+- [x] Variables DataTypes Operators.
+- [x] collection : List, Map , Set.
+- [x] Completed Dart syntax exercises.
 - [ ] Control flow and Functions.
 - [ ] OOPS Concepts.
 - [ ] Asynchronous Programming.
