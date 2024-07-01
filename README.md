@@ -13,6 +13,6 @@ This repository documents my journey learning Dart and Flutter through a structu
 - [x] collection : List, Map , Set.
 - [x] Completed Dart syntax exercises.
 - [x] Control flow and Functions.
-- [ ] OOPS Concepts.
+- [x] OOPS Concepts.
 - [ ] Asynchronous Programming.
 - [x] Implemented basic Dart programs.
