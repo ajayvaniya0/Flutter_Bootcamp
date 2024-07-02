@@ -14,5 +14,5 @@ This repository documents my journey learning Dart and Flutter through a structu
 - [x] Completed Dart syntax exercises.
 - [x] Control flow and Functions.
 - [x] OOPS Concepts.
-- [ ] Asynchronous Programming.
+- [x] Asynchronous Programming.
 - [x] Implemented basic Dart programs.
