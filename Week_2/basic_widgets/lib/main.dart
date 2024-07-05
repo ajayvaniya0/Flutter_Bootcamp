@@ -1,3 +1,4 @@
+import 'package:basic_widgets/widgets/rowscols.dart';
 import 'package:flutter/material.dart';
 import 'package:basic_widgets/widgets/container_sized.dart';
 
@@ -7,14 +8,15 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) { // corrected typo here
+  Widget build(BuildContext context) {
+    // corrected typo here
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        brightness: Brightness.dark,
+        brightness: Brightness.light,
         primaryColor: Colors.deepPurple,
       ),
-      home: Container_Sized(),
+      home: RowsCols(),
     );
   }
 }
