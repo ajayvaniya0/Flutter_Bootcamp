@@ -1,3 +1,4 @@
+import 'package:basic_widgets/widgets/list_grid.dart';
 import 'package:basic_widgets/widgets/rowscols.dart';
 import 'package:flutter/material.dart';
 import 'package:basic_widgets/widgets/container_sized.dart';
@@ -13,10 +14,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        brightness: Brightness.light,
+        brightness: Brightness.dark,
         primaryColor: Colors.deepPurple,
       ),
-      home: const ButtonWidget(),
+      home: const ListGrid(),
     );
   }
 }
