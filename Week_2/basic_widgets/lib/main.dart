@@ -1,5 +1,6 @@
 import 'package:basic_widgets/widgets/dismissible.dart';
 import 'package:basic_widgets/widgets/drawer.dart';
+import 'package:basic_widgets/widgets/image.dart';
 import 'package:basic_widgets/widgets/list_grid.dart';
 import 'package:basic_widgets/widgets/rowscols.dart';
 import 'package:basic_widgets/widgets/snackbar.dart';
@@ -17,10 +18,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        brightness: Brightness.dark,
+        brightness: Brightness.light,
         primaryColor: Colors.deepPurple,
       ),
-      home: const DrawerWidget(),
+      home: const ImageWidget(),
     );
   }
 }
