@@ -5,6 +5,7 @@ import 'package:basic_widgets/widgets/bottomsheet.dart';
 import 'package:basic_widgets/widgets/dismissible.dart';
 import 'package:basic_widgets/widgets/drawer.dart';
 import 'package:basic_widgets/widgets/dropdown.dart';
+import 'package:basic_widgets/widgets/form.dart';
 import 'package:basic_widgets/widgets/image.dart';
 import 'package:basic_widgets/widgets/list_grid.dart';
 import 'package:basic_widgets/widgets/rowscols.dart';
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.light,
         primaryColor: Colors.deepPurple,
       ),
-      home: const DropdownWidget(),
+      home: const FormWidget(),
     );
   }
 }
