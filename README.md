@@ -27,7 +27,7 @@ This repository documents my journey learning Dart and Flutter through a structu
 ### Progress:
 - [x] Introduction to Flutter widgets
 - [x] Understanding Stateless and Stateful widgets
-- [ ] Using common widgets like Text, Container, Row, Column, ListView
-- [ ] Building custom widgets
-- [ ] Exploring layout widgets
-- [ ] Applying styling and theming
+- [x] Using common widgets like Text, Container, Row, Column, ListView
+- [x] Building custom widgets
+- [x] Exploring layout widgets
+- [x] Applying styling and theming
