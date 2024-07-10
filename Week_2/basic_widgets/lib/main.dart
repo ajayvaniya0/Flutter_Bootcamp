@@ -11,6 +11,7 @@ import 'package:basic_widgets/widgets/list_grid.dart';
 import 'package:basic_widgets/widgets/rowscols.dart';
 import 'package:basic_widgets/widgets/snackbar.dart';
 import 'package:basic_widgets/widgets/stack.dart';
+import 'package:basic_widgets/widgets/tabbar.dart';
 import 'package:flutter/material.dart';
 import 'package:basic_widgets/widgets/container_sized.dart';
 import 'package:basic_widgets/widgets/button.dart';
@@ -26,9 +27,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.light,
-        primaryColor: Colors.deepPurple,
+        // primaryColor: Colors.deepPurple,
       ),
-      home: const StackWidget(),
+      home: const TabBarWidget(),
     );
   }
 }
