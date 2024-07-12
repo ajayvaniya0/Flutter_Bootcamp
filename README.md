@@ -31,3 +31,15 @@ This repository documents my journey learning Dart and Flutter through a structu
 - [x] Building custom widgets
 - [x] Exploring layout widgets
 - [x] Applying styling and theming
+
+
+## Week 3: Projects
+
+### Goals:
+- Build various projects to enhance understanding of Flutter concepts.
+- Implement different features and functionalities in each project.
+
+### Day 1: Project - To-Do List App
+- Practice creating a to-do list application.
+- Implement task addition, deletion, and completion features.
+
