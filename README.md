@@ -43,3 +43,6 @@ This repository documents my journey learning Dart and Flutter through a structu
 - Practice creating a to-do list application.
 - Implement task addition, deletion, and completion features.
 
+### Day 2: Project - Minimal Ecommerce App with Cart
+- Develop a minimalistic e-commerce application with a shopping cart.
+- Implement product listing, adding to cart, and checkout features.
